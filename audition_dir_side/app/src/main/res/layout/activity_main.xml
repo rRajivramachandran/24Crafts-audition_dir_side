@@ -36,7 +36,7 @@
         android:layout_marginLeft="30dp"
 
         android:id="@+id/e3"
-
+        android:gravity="top"
         android:layout_height="160sp"
         android:hint="   Project description"
         android:layout_marginBottom="10dp"
